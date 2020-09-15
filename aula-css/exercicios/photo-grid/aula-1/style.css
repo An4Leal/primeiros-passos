@@ -1,0 +1,38 @@
+h1 {
+    color: #faf9f9;
+    font-size: 20px;
+    font-family: 'grandstander', sans-serif;
+}
+
+p {
+    color: #faf9f9;
+    font-size: 16px;
+    font-family: 'grandstander', sans-serif;
+}
+
+img {
+    width: 300px;
+}
+
+@media (min-width: 768px) {
+        
+    h1{
+        font-size: 24px;
+    }
+
+    p{
+        font-size: 24px;
+    }
+
+    img{
+        width: 600px;
+    }
+}
+
+.cabecalho {
+    background-color: #555b6e;
+}
+
+.corpo {
+    background-color: #555b6e;
+}
